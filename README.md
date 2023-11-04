@@ -1,3 +1,6 @@
+## EX-02
+## DATE: 13.09.23
+
 # Fitting Poisson  distribution
 # Aim : 
 
